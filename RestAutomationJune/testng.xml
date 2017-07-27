@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="AutomationSuite">
+<test name="FunctionalTest">
+<classes>
+<class name="com.test.GitHubTest">
+
+</class>
+
+</classes>
+</test>
+</suite>
